@@ -1,5 +1,5 @@
 # Yummi
-
+IOS Swift App
 ![Screenshot 2024-02-02 at 7 18 59 PM](https://github.com/claramounir/Yummi/assets/107275541/33f360c5-b0d3-49c6-8c7b-6b789b73999a)
 
 # Onboarding Screen
