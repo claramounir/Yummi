@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02D60F19-3B1B-4F0D-BAA9-20B6DC865D81"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73776AD2-3E97-41FA-AB01-D63382045E08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yummie/Views/DishDetails/DishDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "73776AD2-3E97-41FA-AB01-D63382045E08 - f81dbca3178c1023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yummie.DishDetailsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yummie.DishDetailsViewController"
+                  moduleName = "Yummie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/claramouniradly/Desktop/Yummie/Yummie/Views/DishDetails/DishDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "73776AD2-3E97-41FA-AB01-D63382045E08 - bc32c05fb59534cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yummie.DishDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yummie.DishDetailsViewController"
+                  moduleName = "Yummie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/claramouniradly/Desktop/Yummie/Yummie/Views/DishDetails/DishDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "73776AD2-3E97-41FA-AB01-D63382045E08 - e3b29b06e18618c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yummie.DishDetailsViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yummie.DishDetailsViewController&gt;"
+                  moduleName = "Yummie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/claramouniradly/Desktop/Yummie/Yummie/Views/DishDetails/DishDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "73776AD2-3E97-41FA-AB01-D63382045E08 - d41fea63a029529b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yummie.DishDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yummie.DishDetailsViewController&gt;"
+                  moduleName = "Yummie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/claramouniradly/Desktop/Yummie/Yummie/Views/DishDetails/DishDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "73776AD2-3E97-41FA-AB01-D63382045E08 - 6a3f135767d39078"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yummie.DishDetailsViewController.__deallocating_deinit"
+                  moduleName = "Yummie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/claramouniradly/Desktop/Yummie/Yummie/Views/DishDetails/DishDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
